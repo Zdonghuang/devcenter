@@ -1,0 +1,52 @@
+.el-button--primary {
+    background: #0371a4;
+    border-color: #0371a4;
+    /* width: 100%; */
+}
+.el-container{
+    display: block;
+}
+.el-main{
+    padding: 0;
+}
+/* 进度条 */
+.el-steps--horizontal {
+    width: 80%;
+    margin: 0.5rem auto;
+}
+.el-step__head.is-process {
+    color:#409eff;
+    border-color: #409eff;
+}
+.el-step__title.is-process{
+    color: #409eff;
+}
+.el-carousel__button{
+    background-color: #999;
+}
+/* 进度条 */
+.el-aside, .el-main{
+    overflow: initial;
+}
+.el-form {
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+.el-textarea__inner {
+    height: 140px;
+    resize:none;
+}
+
+.avatar-uploader-icon {
+    width: 100px !important;
+    height: 100px !important;
+    line-height: 100px !important;
+}
+.el-message--info .el-message__content{
+    color: #333;
+}
+.el-message{
+    top:130px;
+    background-color:#e6eefd;
+}
